@@ -102,5 +102,7 @@ first, you should install node and npm.
 
 12. open browser: [http://localhost:7777](http://localhost:7777)
 
+![alt_text](./scr1.png)
+
 ---
 if you clone this repository to local, just `npm install` and `npm start`.
